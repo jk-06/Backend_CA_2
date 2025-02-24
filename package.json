@@ -1,0 +1,24 @@
+{
+  "name": "backend_ca_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jk-06/Backend_CA_2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jk-06/Backend_CA_2/issues"
+  },
+  "homepage": "https://github.com/jk-06/Backend_CA_2#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
